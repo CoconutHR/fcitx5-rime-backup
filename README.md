@@ -84,7 +84,7 @@ fcitx5 -d --replace &
 
 ## 截图
 
-> *（后续补上截图）*
+![Dark-Material 主题截图](screenshots/dark-theme.png)
 
 ## 许可证
 
