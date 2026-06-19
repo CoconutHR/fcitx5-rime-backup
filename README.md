@@ -25,6 +25,14 @@ bash <(curl -fsSL https://raw.githubusercontent.com/CoconutHR/fcitx5-rime-backup
 4. 配置系统环境变量
 5. 重启 Fcitx5
 
+### 用 Reasonix 一键安装 🚀
+
+如果你在用 [Reasonix](https://github.com/cosmicroxai/reasonix)，直接把仓库地址发给 Agent：
+
+> "帮我安装 https://github.com/CoconutHR/fcitx5-rime-backup 里的 Fcitx5 Rime 配置"
+
+Agent 会自动检测系统、安装依赖、部署配置并重启输入法，全程不用手动敲命令。
+
 ### 手动安装
 
 ```bash
