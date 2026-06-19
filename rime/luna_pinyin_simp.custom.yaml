@@ -1,0 +1,13 @@
+patch:
+  menu:
+    # 候选词最大显示个数（可设置1-9之间的数值）
+    page_size: 9
+  style:
+    # 调整候选词字体大小（数值越大字体越大）
+    font_point: 10
+    # 候选词窗口宽度（单位：像素）
+    candidate_window_width: 450
+    # 候选词项高度（单位：像素）
+    candidate_height: 15
+    # 候选词排列方式（horizontal 横向 / vertical 纵向默认）
+    horizontal: true
